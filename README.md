@@ -1,2 +1,2 @@
 # 0xVex.github.io
-Repo for write-ups
+Repo for write-ups on tech stuff and anything else I am studying or find interesting.
